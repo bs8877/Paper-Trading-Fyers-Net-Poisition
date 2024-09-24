@@ -1,3 +1,5 @@
+#Install Modules:   ( pip install fyersapiv3 pandas dash)
+
 #First Generate Auth Code using Auth_code_generate.py file 
 #second generate access_token usng access_generate.py file
 
